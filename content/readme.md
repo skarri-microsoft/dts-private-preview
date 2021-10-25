@@ -36,8 +36,3 @@ If you don't have an Azure subscription, create a <a href="https://azure.microso
 - Change partition key (Note: Schema of the Source and Destination must be same).
 - Migrate table with more rus to smaller rus to reduce foot print underneath it.
 - Longer retention backups in Avro format for auditing purpose.
-
-### **Opening this git repo in Azure Studio**
-
-- Download this code as zip file
-- Unzip it and then open the folder in Azure Data Studio (File - Open Folder)
