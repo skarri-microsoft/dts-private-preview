@@ -1,4 +1,4 @@
-# Azure CosmosDB Data Transfer Service Private Preview Note books
+# Azure CosmosDB Data Transfer Service Private Preview Note Books
 
 Azure Data Studio note books to export and import data from Azure CosmosDB Cassandra API using Azure Storage.
 
