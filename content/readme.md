@@ -4,7 +4,7 @@ This book contains tutorials that demo how to use data transfer service to expor
 
 ## **Prerequisites**
 
-To start tutorials, you would need to have Azure Subscription with 'Data Transfer Capability', if you don't have one, please email anfeldma@microsoft.com and skarri@microsoft.com with your subscription id.
+To start tutorials, you would need to have Azure Subscription with 'Data Transfer Capability', if you don't have one, please email shwetn@microsoft.com and skarri@microsoft.com with your subscription id.
 
 Note: There is a charge associated with this service and shows up on your invoice as 'Cluster compute', if you have more billing questions which will be addressed in the email.
 
